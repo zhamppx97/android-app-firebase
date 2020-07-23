@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CPE4231Firebase</string>
+    <string name="action_save">Save</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+
+    <string name="nameTitle">Name Title</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="age">Age</string>
+    <string name="studentID">Student ID</string>
+    <string name="nationalIDCard">National ID Card</string>
+    <string name="address">Address</string>
+    <string name="postCode">Post Code</string>
+    <string name="mobilePhoneNumber">Mobile Phone Number</string>
+</resources>
